@@ -67,41 +67,66 @@ Full wave rectifier with and without filter:
 TABULAR COLUMN
 
 Rectifier without filter:
+
 <img width="835" height="254" alt="image" src="https://github.com/user-attachments/assets/76df4df8-a61a-4b0b-9594-0af7a7a7b65a" />
 
 
 
 TABULAR COLUMN
+
 Rectifier with filter:
+
 <img width="808" height="284" alt="image" src="https://github.com/user-attachments/assets/f281d09b-7d0d-4ff9-8c09-a0060ab5b67e" />
 
 
 
 
 GRAPH:
+
 Half wave rectifier with and without filter:
+
+
 <img width="526" height="716" alt="image" src="https://github.com/user-attachments/assets/c16214d0-8841-40ad-8840-dfaded722b93" />
 
 
 Full wave rectifier with and without filter:
+
+
 <img width="524" height="708" alt="image" src="https://github.com/user-attachments/assets/6b864ded-d8b1-4252-b08a-52dacc4b984f" />
 
 
 WAVEFORM:
 
 Half wave rectifier with and without filter:
+
 <img width="679" height="507" alt="image" src="https://github.com/user-attachments/assets/f09347e0-3ebb-4b40-a8db-508047350fcb" />
+
+
 <img width="1375" height="874" alt="image" src="https://github.com/user-attachments/assets/1a1c675d-6421-43f8-bd9b-d3e46e329da7" />
+
+
 <img width="663" height="499" alt="image" src="https://github.com/user-attachments/assets/fc79da25-521a-4862-9e81-6837fca3d578" />
+
+
+<img width="676" height="516" alt="image" src="https://github.com/user-attachments/assets/ec61e950-880b-46a2-b16d-b624d6f5bd46" />
+
 
 
 
 
 
 Full wave rectifier with and without filter:
+
+
 <img width="654" height="503" alt="image" src="https://github.com/user-attachments/assets/b41fc106-8d94-4b24-b346-c420339782b9" />
+
+
 <img width="1380" height="878" alt="image" src="https://github.com/user-attachments/assets/01371b7d-fd06-4390-bffd-0992d1bbe1e1" />
+
+
 <img width="1373" height="874" alt="image" src="https://github.com/user-attachments/assets/095617ab-9b4c-4a27-a1e5-f982be31e3cb" />
+
+
 <img width="1381" height="882" alt="image" src="https://github.com/user-attachments/assets/2f6f1aa4-0861-45c0-92a2-bc4ada7a937a" />
 
 

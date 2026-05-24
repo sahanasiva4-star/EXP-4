@@ -34,18 +34,76 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
+
+
+
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="722" height="280" alt="image" src="https://github.com/user-attachments/assets/85c84826-8195-4325-a709-f3243d2b293d" />
+
+
 Bridge rectifier with filter:
 
+<img width="671" height="355" alt="image" src="https://github.com/user-attachments/assets/030ebfaa-cb30-4078-8f6d-53cc0ba2cc14" />
+
+
+
+CIRCUIT DIAGRAM:
+
+Half wave rectifier with and without filter:
+
+<img width="926" height="620" alt="image" src="https://github.com/user-attachments/assets/9b1dbd21-8572-483b-93d5-0d0fb994f348" />
+
+Full wave rectifier with and without filter:
+
+<img width="783" height="604" alt="image" src="https://github.com/user-attachments/assets/478a3984-74ee-4fc7-8822-010280f3a67c" />
+
+
+
+
+
 TABULAR COLUMN
-Rectifier without filter
+
+Rectifier without filter:
+<img width="835" height="254" alt="image" src="https://github.com/user-attachments/assets/76df4df8-a61a-4b0b-9594-0af7a7a7b65a" />
+
+
+
 TABULAR COLUMN
-Rectifier with filter
+Rectifier with filter:
+<img width="808" height="284" alt="image" src="https://github.com/user-attachments/assets/f281d09b-7d0d-4ff9-8c09-a0060ab5b67e" />
+
+
+
+
+GRAPH:
+Half wave rectifier with and without filter:
+<img width="526" height="716" alt="image" src="https://github.com/user-attachments/assets/c16214d0-8841-40ad-8840-dfaded722b93" />
+
+
+Full wave rectifier with and without filter:
+<img width="524" height="708" alt="image" src="https://github.com/user-attachments/assets/6b864ded-d8b1-4252-b08a-52dacc4b984f" />
+
 
 WAVEFORM:
+
+Half wave rectifier with and without filter:
+<img width="679" height="507" alt="image" src="https://github.com/user-attachments/assets/f09347e0-3ebb-4b40-a8db-508047350fcb" />
+<img width="1375" height="874" alt="image" src="https://github.com/user-attachments/assets/1a1c675d-6421-43f8-bd9b-d3e46e329da7" />
+<img width="663" height="499" alt="image" src="https://github.com/user-attachments/assets/fc79da25-521a-4862-9e81-6837fca3d578" />
+
+
+
+
+
+Full wave rectifier with and without filter:
+<img width="654" height="503" alt="image" src="https://github.com/user-attachments/assets/b41fc106-8d94-4b24-b346-c420339782b9" />
+<img width="1380" height="878" alt="image" src="https://github.com/user-attachments/assets/01371b7d-fd06-4390-bffd-0992d1bbe1e1" />
+<img width="1373" height="874" alt="image" src="https://github.com/user-attachments/assets/095617ab-9b4c-4a27-a1e5-f982be31e3cb" />
+<img width="1381" height="882" alt="image" src="https://github.com/user-attachments/assets/2f6f1aa4-0861-45c0-92a2-bc4ada7a937a" />
+
 
 
 RESULT:

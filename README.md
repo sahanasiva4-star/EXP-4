@@ -28,7 +28,7 @@ Rectifier Efficiency
 Rectifier efficiency is defined as the ratio of DC output power to the input power from the AC supply. Even with ideal rectifiers with no losses, the efficiency is less than 100% because some of the output power is AC power rather than DC which manifests as ripple superimposed on the DC waveform.
 
 
-##PROCEDURE:
+## PROCEDURE:
 
 1.   Wire up the half wave rectifier circuit without capacitor after testing all the components.
 2.   Switch on the main supply. Observe the transformer secondary voltage waveform and output voltage waveform across the load resistor, simultaneously on the CRO screen. Note down       and calculate
